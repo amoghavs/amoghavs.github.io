@@ -80,12 +80,12 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
-  avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  name             : "Amoghavarsha Suresh"
+  avatar           : "headshot.png"
+  bio              : "CS PhD Student"
+  location         : "Stony Brook, NY"
   employer         :
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  googlescholar    : "https://scholar.google.com/citations?user=z0t8HhsAAAAJ"
   email            :
   uri              :
   bitbucket        :
@@ -94,7 +94,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "https://github.com/amoghavs"
   google_plus      :
   keybase          :
   instagram        :
